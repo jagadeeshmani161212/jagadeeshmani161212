@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jagadeeshmani161212
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Object Detection and neural networks
+- 💞️ I’m looking to collaborate .....
 - 📫 How to reach me ...
 
 <!---
